@@ -5,7 +5,7 @@ inicio=input('Pulsa 1 para contar palabras, Pulsa 2 para comprobar palindromos, 
 #Contador de palabras
 if inicio == ('1'):
     Texto1 = input('Introduce el texto:')
-    Contador=(len (Texto))
+    Contador=(len (Texto1))
     print('Este texto tiene', Contador,'caracteres')
 
 #palindromos
